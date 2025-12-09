@@ -40,7 +40,7 @@ Unit tests using MockMvc & JUnit	Controller + validation testing
 High-Level Component Diagram
 
 Uploaded separately in repo under
-![App Screenshot](Screenshot 2025-12-09 103642.png)
+![App Screenshot](architecture.png)
 
 
 🔁 Flow Summary
@@ -123,7 +123,8 @@ mockMvc.perform(post("/api/generate-plan")
         .andExpect(status().isOk())
         .andExpect(jsonPath("$.tasks").isArray());
 
-🎨 React Frontend (Optional UI)
+🎨 React Frontend 
+![App Screenshot](frontend.png)
 
 Input fields for goal & timeline
 
