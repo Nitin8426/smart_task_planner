@@ -1,5 +1,5 @@
 🚀 Smart Task Planner – AI-Powered Task Breakdown System
-Hiring Task Submission – Software Developer | Unthinkable Solutions | Gurgaon, India
+
 
 The Smart Task Planner converts high-level goals (e.g., “Launch a SaaS landing page in 2 weeks”) into a structured, execution-ready plan — including actionable tasks, dependencies, and time estimates.
 This solution demonstrates real-world backend engineering using Spring Boot, structured API design, LLM-based reasoning, and optional persistence & frontend rendering.
@@ -156,5 +156,5 @@ Explanation of reasoning & design choices
 
 Nitin Tripathi
 📍 Gurgaon, India
-📧 add your email here
-🔗 GitHub: your link here
+📧 nitintripathi8426@gmail.com
+
