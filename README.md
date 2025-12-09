@@ -39,7 +39,8 @@ Unit tests using MockMvc & JUnit	Controller + validation testing
 🏗 System Architecture
 High-Level Component Diagram
 
-Uploaded separately in repo under /assets/architecture.png
+Uploaded separately in repo under
+![App Screenshot](Screenshot 2025-12-09 103642.png)
 
 
 🔁 Flow Summary
